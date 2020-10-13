@@ -1,20 +1,4 @@
 Catalogo de Cuentas NIIF (IFRS) para Tryton
 ###########################################
 
-Implementacionde de las Normas Internacionales de Informacion Financiera (NIIF o IFRS en ingles) en Tryton.
-
-License
--------
-
-See LICENSE
-
-Copyright
----------
-
-See COPYRIGHT
-
-
-For more information please visit:
-
-  * https://formateli.com/
-  * http://www.tryton.org/
+Reemplazado por `trytond_formateli_account_ifrs <https://github.com/formateli/trytond_formateli_account_ifrs/tree/develop>`_.
